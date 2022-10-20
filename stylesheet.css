@@ -16,7 +16,7 @@ h1 {
 h4 {
     font-size: 1rem;
     text-transform: uppercase;
-    border: 5px rgb(255, 132, 150);
+    border: 5px solid rgb(255, 132, 150);
 }
 
 img {
@@ -35,7 +35,7 @@ img {
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px;
-    border: 2px burlywood;
+    border: 2px solid burlywood;
 }
 
 .column {
